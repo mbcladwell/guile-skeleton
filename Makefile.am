@@ -6,4 +6,5 @@ SOURCES =               \
 
 EXTRA_DIST =            \
   README                \
+  bootstrap             \
   pre-inst-env.in
